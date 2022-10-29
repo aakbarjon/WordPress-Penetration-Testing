@@ -11,7 +11,8 @@ Time spent: 15 hours spent in total
 - [ ] Summary: 
   - Tested in version: WordPress 4.2
   - Fixed in version: 
-- [ ] GIF Walkthrough: 
+- [ ] GIF Walkthrough:
+- [ ]  
    <img src="XSS.gif" width="800">
 - [ ] Steps to recreate: 
   In the this attack I used "svg onload=alert(1)" in the comment section of the website
@@ -22,6 +23,7 @@ Time spent: 15 hours spent in total
   - Tested in version: WordPress 4.2
   - Fixed in version: 
 - [ ] GIF Walkthrough: 
+- [ ] 
   <img src="Username_enum.gif" width="800">
 - [ ] Steps to recreate: 
 In this attack I used 
@@ -35,6 +37,7 @@ In this attack I used
   - Tested in version: WordPress 4.2
   - Fixed in version: 
 - [ ] GIF Walkthrough: 
+- [ ] 
   <img src="password_enum.gif" width="800">
 - [ ] Steps to recreate: 
   In this attack I have created a password.txt file and stored a list of sample passwords in that file. 
@@ -62,7 +65,6 @@ and downgrading WordPress version which later on successfully overcame
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
