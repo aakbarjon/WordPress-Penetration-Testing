@@ -2,7 +2,7 @@
 
 Time spent: 15 hours spent in total
 
-> Objective: Find, analyze, recreate, and document 3 vulnerabilities** affecting an old version of WordPress
+> Objective: Find, analyze, recreate, and document 3 vulnerabilities affecting an old version of WordPress
 
 ## Pen Testing Report
 
@@ -10,7 +10,7 @@ Time spent: 15 hours spent in total
 
 - [ ] Summary: 
   - Tested in version: WordPress 4.2
-  - Fixed in version: 
+  - Fixed in version: WordPress 4.2.34
 - [ ] GIF Walkthrough:
 - [ ]
    <img src="XSS.gif" width="800">
@@ -21,7 +21,7 @@ Time spent: 15 hours spent in total
 
 - [ ] Summary:
   - Tested in version: WordPress 4.2
-  - Fixed in version: 
+  - Fixed in version: WordPress 4.2.34
 - [ ] GIF Walkthrough: 
 - [ ] 
   <img src="Username_enum.gif" width="800">
@@ -35,7 +35,7 @@ In this attack I used
 
 - [ ] Summary: 
   - Tested in version: WordPress 4.2
-  - Fixed in version: 
+  - Fixed in version: WordPress 4.2.34
 - [ ] GIF Walkthrough: 
 - [ ] 
   <img src="password_enum.gif" width="800">
