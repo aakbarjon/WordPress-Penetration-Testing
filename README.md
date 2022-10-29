@@ -12,7 +12,7 @@ Time spent: 15 hours spent in total
   - Tested in version: WordPress 4.2
   - Fixed in version: 
 - [ ] GIF Walkthrough:
-- [ ]  
+- [ ]
    <img src="XSS.gif" width="800">
 - [ ] Steps to recreate: 
   In the this attack I used "svg onload=alert(1)" in the comment section of the website
