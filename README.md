@@ -1,4 +1,4 @@
-# Project 7 - WordPress Pen Testing
+# Project 7 - WordPress Penetration Testing
 
 Time spent: 15 hours spent in total
 
@@ -15,6 +15,7 @@ Time spent: 15 hours spent in total
 - [ ]
    <img src="XSS.gif" width="800">
 - [ ] Steps to recreate: 
+  
   In the this attack I used "svg onload=alert(1)" in the comment section of the website
   
 ### 2. User Enumeration
@@ -26,6 +27,7 @@ Time spent: 15 hours spent in total
 - [ ] 
   <img src="Username_enum.gif" width="800">
 - [ ] Steps to recreate: 
+
 In this attack I used 
   "wpscan --url http://192.168.33.10 --api-token MY_TOKEN -e u vp" 
   in the terminal of my Kali machine to find a list of users on the website
@@ -40,6 +42,7 @@ In this attack I used
 - [ ] 
   <img src="password_enum.gif" width="800">
 - [ ] Steps to recreate: 
+  
   In this attack I have created a password.txt file and stored a list of sample passwords in that file. 
   Then, I have performed the following command to find out passwords of the users: 
   wpscan --url http://192.168.33.10 --api-token MY_TOKEN --usernames username.txt --passwords password.txt
