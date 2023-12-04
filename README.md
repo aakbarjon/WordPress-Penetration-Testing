@@ -1,4 +1,4 @@
-Project#3 WordPress Penetration Testing
+**WordPress Penetration Testing**
 
 Time spent: 15 hours spent in total
 
