@@ -6,7 +6,7 @@ Time spent: 15 hours spent in total
 
 ## Pen Testing Report
 
-### 1. Cross-site scripting (XSS)
+### 1. Cross-site scripting (XSS) Attack
 
 - [ ] Summary: 
   - Tested in version: WordPress 4.2
@@ -18,7 +18,7 @@ Time spent: 15 hours spent in total
   
   In the this attack I used "svg onload=alert(1)" in the comment section of the website
   
-### 2. User Enumeration
+### 2. User Enumeration Attack
 
 - [ ] Summary:
   - Tested in version: WordPress 4.2
@@ -33,7 +33,7 @@ In this attack I used
   in the terminal of my Kali machine to find a list of users on the website
   and saved it in the usernames.txt file.
 
-### 3. Password Enumeration
+### 3. Password Enumeration Attack
 
 - [ ] Summary: 
   - Tested in version: WordPress 4.2
