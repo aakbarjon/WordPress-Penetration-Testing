@@ -48,9 +48,6 @@ In this attack I used
   wpscan --url http://192.168.33.10 --api-token MY_TOKEN --usernames username.txt --passwords password.txt
 
 
-## Assets
-
-List any additional assets, such as scripts or files
 
 ## Resources
 
@@ -60,8 +57,6 @@ List any additional assets, such as scripts or files
 GIFs created with  ScreenToGif
 
 ## Notes
-
-Describe any challenges encountered while doing the work
 
 I had some challenges with running and installing Vagrant
 and downgrading WordPress version which later on successfully overcame
