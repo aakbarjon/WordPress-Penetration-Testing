@@ -1,8 +1,7 @@
 **WordPress Penetration Testing**
 
-Time spent: 15 hours spent in total
 
-> Objective: Find, analyze, recreate, and document 3 vulnerabilities affecting an old version of WordPress
+Objective: Find, analyze, recreate, and document 3 vulnerabilities affecting an old version of WordPress
 
 ## Pen Testing Report
 
