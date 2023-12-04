@@ -53,7 +53,6 @@ In this attack I used
 - [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
 - [WordPress Developer Reference](https://developer.wordpress.org/reference/)
 
-GIFs created with  ScreenToGif
 
 ## Notes
 
